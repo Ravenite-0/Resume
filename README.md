@@ -1,2 +1,3 @@
 # Resume
- HTML Resume website
+
+Just a simple html to host my resume using GitHub pages.
